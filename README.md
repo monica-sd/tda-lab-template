@@ -1,9 +1,8 @@
-# TDA Lab de [ESCRIBE AQUÍ TU NOMBRE]
+# TDA Lab de Mónica Sánchez Díaz
 
-**[TU CURSO] · Curso 2026-2027**
+2ºbach A · Curso 2026-2027**
 
-[Escribe aquí una frase tuya diciendo qué es esto. Por ejemplo: «Aquí voy dejando lo que
-hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y cómo salí.»]
+Aquí voy a dejar todo0 lo que hago en TDA este curso
 
 ---
 
